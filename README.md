@@ -10,7 +10,7 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 
 ---
 ## 🔥 Recent GitHub Contributions
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunus2018&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunusds&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔧 Skills & Tools
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=HuggingFace&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white) 
