@@ -15,8 +15,7 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ## 🔧 Skills & Tools
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF4F00?style=for-the-badge&logo=HuggingFace&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white) 
 
-![NL2SQL](https://img.shields.io/badge/NL2SQL-6A1B9A?style=for-the-badge&logo=PostgreSQL&logoColor=white)  
-![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=OpenAI&logoColor=white)
+![NL2SQL](https://img.shields.io/badge/NL2SQL-6A1B9A?style=for-the-badge&logo=PostgreSQL&logoColor=white)   ![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000080?style=for-the-badge&logo=PyTorch&logoColor=white)   
 
