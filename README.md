@@ -6,7 +6,7 @@ I'm an aspiring **Data Scientist** with over **3 years of experience**, passiona
 - 🗣️ **Natural Language Processing**: Text classification, sentiment analysis, and advanced NLP techniques.
 - 📊 **Data Analysis**: Exploratory data analysis (EDA), feature engineering, and statistical modeling.
 
-I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape.
+I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape
 
 ---
 ## 🔥 Recent GitHub Contributions.
