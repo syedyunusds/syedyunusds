@@ -9,7 +9,7 @@ I'm an aspiring **Data Scientist** with over **3 years of experience**, passiona
 I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape
 
 ---
-## 🔥 Recent GitHub Contributions
+## 🔥 Recent GitHub Contributions.
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=syedyunusds&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔧 Skills & Tools
