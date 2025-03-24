@@ -2,7 +2,7 @@
 
 🚀 **AI & Data Science Architect | ML | Deep Learning | Generative AI | RAG | NL2SQL | Transformers & Neural Networks**
 
-I am a Data Science professional with **3+ years of experience**, specializing in **Machine Learning, Deep Learning, and Generative AI**. Passionate about transforming data into actionable insights, I thrive on solving complex problems and building AI-driven solutions that make an impact.
+I am a Data Science professional with 3+ years of experience, specializing in Machine Learning, Deep Learning, and now upgraded to Generative AI (Transformers, RAG and NL2SQL). Passionate about transforming data into actionable insights, I thrive on solving complex problems and building AI-driven solutions that make an impact.
 
 ---
 ### 🔹 **Expertise:**
