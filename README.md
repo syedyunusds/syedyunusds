@@ -13,7 +13,7 @@ I am a Data Science professional with **3+ years of experience**, specializing i
 ✅ **Data Science & Analytics** – Feature engineering, EDA, statistical modeling  
 
 I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape.
----
+
 
 ### 🚀 **Recent Work & Projects:**
 📌 **End-to-End RAG & NL2SQL Project** – Built an AI-driven system integrating Retrieval-Augmented Generation (RAG) and NL2SQL for structured query generation.  
@@ -52,17 +52,47 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ---
 ## 📌 Pinned Projects
 
-### [1. Sales Forecasting with Time-Series Analysis]
-**Description**: A comprehensive project using ARIMA and LSTM models to predict future sales trends. Includes detailed data visualization and pipeline setup.
+# AI Agent for Intelligent Data Retrieval Using LangGraph
 
-### [2. NLP-Powered Sentiment Analyzer]
-**Description**: An advanced sentiment analysis tool using pre-trained transformers like BERT to classify emotions from text data.
+## Overview
+Developed an AI Agent leveraging LangGraph, RAG (Retrieval-Augmented Generation), NL2SQL, and Web Search to build an intelligent, multi-functional AI system. This agent is designed to:
+- Retrieve real-time information from the web
+- Fetch knowledge-base documents efficiently
+- Convert natural language queries into SQL for structured data retrieval
 
-### [3. Machine Learning for Fraud Detection]
-**Description**: Built a robust fraud detection model using ensemble methods to identify anomalies in financial transactions.
+## 🚀 Technologies Used:
+- Python, LangChain, LangGraph, OpenAI GPT-4o  
+- SQL, FAISS, SQLite, Pandas, NumPy  
+- AWS, Flask API  
 
-### [4. EDA with Pandas & Matplotlib]
-**Description**: A toolkit for conducting fast and effective exploratory data analysis on structured datasets.
+## 🔍 Key Features:
+✅ RAG-powered intelligent search  
+✅ NL2SQL integration for seamless query translation  
+✅ Flask API for easy deployment  
+
+---
+# Hybrid Recommender System For Personalized Product Recommendations
+
+## Overview
+Developed a **Hybrid Recommender System** combining:
+- **Content-Based Filtering** (Analyzing product attributes)  
+- **Collaborative Filtering** (Leveraging user behavior)
+
+This approach improves recommendation accuracy and enhances user engagement.
+
+## 🚀 Technologies Used:
+- Python, Scikit-learn, TensorFlow, XGBoost  
+- Flask, Apache Spark, FAISS  
+- Pandas, NumPy, PostgreSQL  
+- AWS/GCP  
+
+## 🔍 Key Features:
+✅ Personalized product recommendations  
+✅ Hybrid approach for improved accuracy  
+✅ Scalable using Spark and AWS/GCP  
+
+---
+
 
 ---
 
