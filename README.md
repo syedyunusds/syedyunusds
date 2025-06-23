@@ -1,3 +1,4 @@
+
 ### Hi there! 👋 I'm **Syed Yunus**  
 
 🚀 **AI & Data Science Architect | ML | Deep Learning | Generative AI | RAG | NL2SQL | Transformers & Neural Networks**
@@ -13,7 +14,6 @@ I am a Data Science professional with 3+ years of experience, specializing in Ma
 ✅ **Data Science & Analytics** – Feature engineering, EDA, statistical modeling  
 
 I love solving complex problems and mentoring others in Python, NumPy, Pandas, Statistics, and Machine Learning. Currently, I'm exploring **Generative AI** to stay ahead in the ever-evolving tech landscape.
-
 
 ### 🚀 **Recent Work & Projects:**
 📌 **End-to-End RAG & NL2SQL Project** – Built an AI-driven system integrating Retrieval-Augmented Generation (RAG) and NL2SQL for structured query generation.  
@@ -38,11 +38,6 @@ I love solving complex problems and mentoring others in Python, NumPy, Pandas, S
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
- 
-
-
-
-
 
 ## 🚀 Latest Updates
 ### 🎯 **Currently Exploring:**
@@ -93,13 +88,16 @@ This approach improves recommendation accuracy and enhances user engagement.
 
 ---
 
-
----
-
-
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syedyunusds)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)]()  
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedyunusds@gmail.com)
+"""
+
+# Save the updated README to a markdown file
+updated_readme_path = "/mnt/data/Updated_README_SyedYunus.md"
+with open(updated_readme_path, "w", encoding="utf-8") as f:
+    f.write(updated_readme_content)
+
+updated_readme_path
