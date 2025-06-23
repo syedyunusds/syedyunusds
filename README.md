@@ -1,6 +1,4 @@
-# Creating a polished GitHub Profile README.md file based on Syed Yunus's resume
 
-final_readme_content = """
 # 👋 Hi, I'm Syed Yunus
 
 🚀 **AI/ML Engineer | Generative AI | RAG | Transformers | NLP | Recommender Systems**
