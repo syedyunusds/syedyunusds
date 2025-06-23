@@ -75,10 +75,3 @@ I'm a passionate AI/ML Engineer with **3+ years of experience** in Machine Learn
 > “Projects speak louder than job titles. I believe in learning by building — and I’m just getting started.”
 
 """
-
-# Save it as a .md file for GitHub profile
-final_readme_path = "/mnt/data/SyedYunus_Profile_README.md"
-with open(final_readme_path, "w", encoding="utf-8") as f:
-    f.write(final_readme_content)
-
-final_readme_path
