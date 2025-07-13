@@ -75,5 +75,3 @@ Recently implemented **LoRA-based fine-tuning of Vision Transformers** and deplo
 ---
 
 > “Projects speak louder than job titles. I believe in learning by building — and I’m just getting started.”
-
-"""
