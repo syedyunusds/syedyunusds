@@ -64,7 +64,6 @@ Recently implemented **LoRA-based fine-tuning of Vision Transformers** and deplo
 - **Data Science Mentorship Program 2.0** – CampusX (2024)
 
 ---
-
 ## 🌐 Connect with Me
 
 📍 Bengaluru, India (Open to Hybrid/Remote)  
