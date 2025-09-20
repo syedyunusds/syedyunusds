@@ -14,7 +14,7 @@ Recently implemented **LoRA-based fine-tuning of Vision Transformers** and deplo
 ### Generative AI & LLMs
 - LangChain, LangGraph, HuggingFace Transformers, OpenAI GPT-4o, LLaMA2, Mistral, Falcon
 - Retrieval-Augmented Generation (RAG), Prompt Engineering, NL2SQL
-- Vector Databases: FAISS, ChromaDB
+- Vector Databases: FAISS, ChromaDB.
 - Evaluation: Faithfulness, Cosine Similarity, Relevance Scoring
 
 ### Deep Learning
