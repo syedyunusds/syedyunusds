@@ -5,7 +5,7 @@
 
 I'm a dynamic and results-driven Data Science professional with **3+ years of experience** in Machine Learning and Recommender Systems, and an additional year of focused upskilling in Generative AI.**Built and evaluated multiple** end-to-end Retrieval-Augmented Generation (RAG) applications using LangChain, Llama2, HuggingFace, and OpenAI. Strong in model evaluation, vector databases, and LLM agent workflows, with **hands-on project** delivery simulating real-world production systems.
 
-Recently implemented **LoRA-based fine-tuning of Vision Transformers** and deployed GenAI solutions using **Streamlit and AWS Lambda** for domain-specific tasks..
+Recently implemented **LoRA-based fine-tuning of Vision Transformers** and deployed GenAI solutions using **Streamlit and AWS Lambda** for domain-specific tasks.
 
 ---
 
